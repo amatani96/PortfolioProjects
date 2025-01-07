@@ -113,3 +113,5 @@ JOIN COVIDPortfolioProjectDev..CovidVaccinations$ vac
 WHERE dea.continent IS NOT NULL
 
 SELECT * FROM PercentPopulationVaccinated
+
+-- Followed AlexTheAnalyst's video availible at https://www.youtube.com/watch?v=qfyynHBFOsM&t=217s
