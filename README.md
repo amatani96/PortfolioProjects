@@ -11,7 +11,7 @@ For the following project I used Microsoft SQL Server Management Studio to analy
 
 For this project I answered many questions that would be helpful to learn about this dataset, such as which genres on average have the highest budgets and which movies have the highest return on their investments. Each SQL query contains comments above it explaining what the query does.
 
-The .sql file for this project can be found [here](TMDB_Data_Analysis.sql)
+The .sql file for this project can be found [here](TMDB_Data_Analysis.sql).
 
 ## Top 100 Grossing Movies Analysis
 
@@ -20,7 +20,7 @@ In this project I exclusively used Microsoft Excel to clean, analyse and visuali
 The document explaining my process of creating the visualisations for this project can be found [here](Excel_Top_100_Grossing_Films.docx) and the .xlsx file can be found [here](Excel_Top_100_Grossing_Films.xlsx).
 
 ## COVID Follow Along Project
-For the following SQL based project I followed along to the tutorial created by AlexTheAnalyst at the following link: https://www.youtube.com/watch?v=qfyynHBFOsM
+For the following SQL based project I followed along to the [tutorial created by AlexTheAnalyst](https://www.youtube.com/watch?v=qfyynHBFOsM)
 
 For this project I used Microsoft SQL Server Management Studio to analyse COVID deaths data from two "Our World In Data" datasets. While following along to the above video I pulled out certain columns from the datasets and used them to display certain data as is specified by the comments within the COVIDFollowAlong.sql file.
 
